@@ -1,0 +1,100 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "image/84-7.png",
+            "title": "Conference Chair (Aluminuim)", 
+            "price": 39.40
+        },
+        {
+            "id": 2,
+            "image": "image/896-6.png",
+            "title": "Conference Chair (Steel)",
+            "price": 40.40
+        },
+        {
+            "id": 3,
+            "image": "image/chair4.jpg",
+            "title": "Conference Chair (Aluminuim)",
+            "price": 35.40
+        },
+        {
+            "id": 4,
+            "image": "image/896-6.png",
+            "title": "Conference Chair (Steel)",
+            "price": 80.40
+        },
+        {
+            "id": 5,
+            "image": "image//84-7.png",
+            "title": "Conference Chair (Aluminuim)",
+            "price": 48.40
+        },
+        {
+            "id": 6,
+            "image": "image/chair4.jpg",
+            "title": "Conference Chair (Steel)",
+            "price": 19.40
+        },
+        {
+            "id": 7,
+            "image": "image/896-6.png",
+            "title": "Conference Chair (Aluminuim)",           
+             "price": 31.40
+        },
+        {
+            "id": 8,
+            "image": "image/chair4.jpg",
+            "title": "Conference Chair (Steel)",
+            "price": 79.40
+        },
+        {
+            "id": 9,
+            "image": "image/84-7.png",
+            "title": "Conference Chair (Aluminuim)",            
+            "price": 49.40
+        },
+        {
+            "id": 10,
+            "image": "image/896-6.png",
+            "title": "Conference Chair (Steel)",
+            "price": 37.40
+        },
+        {
+            "id": 11,
+            "image": "image/chair4.jpg",
+            "title": "Conference Chair (Aluminuim)",            
+            "price": 29.40
+        },
+        {
+            "id": 12,
+            "image": "image/896-6.png",
+            "title": "Conference Chair (Steel)",
+            "price": 39.40
+        },
+        {
+            "id": 13,
+            "image": "image/84-7.png",
+            "title": "Conference Chair (Aluminuim)",           
+             "price": 39.40
+        },
+        {
+            "id": 14,
+            "image": "image/896-6.png",
+            "title": "Conference Chair (Steel)",
+            "price": 39.40
+        },
+        {
+            "id": 15,
+            "image": "image/chair4.jpg",
+            "title": "Conference Chair (Aluminuim)",            
+            "price": 39.40
+        },
+        {
+            "id": 16,
+            "image": "image/84-7.png",
+            "title": "Conference Chair (Steel)",
+            "price": 39.40
+        }
+    ]
+}
