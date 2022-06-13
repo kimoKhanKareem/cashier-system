@@ -10,7 +10,6 @@ import ButtonPush from './ButtonPush';
 
 const Paymen = () => {
   const { cart } = useContext(CartContext);
-  // console.log("pament",cart)
   return (
     <StyledPayment as="section">
       <Container fluid>
@@ -24,7 +23,7 @@ const Paymen = () => {
           <h2>Payment</h2>
           <Link to="/" className="btn validate">
             <p>
-              Validate Kimo Umar
+              Validate
             </p>
               <BsBoxArrowRight className={"iconsarrowR"}/>
           </Link>
@@ -53,7 +52,7 @@ const Paymen = () => {
     </StyledPayment>
   )
 }
-//styled components
+//! styled components
 const StyledPayment = styled.div`
 .boxheadpayment{
   display: flex;

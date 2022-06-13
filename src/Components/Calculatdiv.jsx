@@ -78,7 +78,7 @@ const Calculatdiv = () => {
         </CalculatStyled>
     )
 }
-// styled components
+//! styled components
 const CalculatStyled = styled.div`
  position: relative;
  .parenticonsdetails{

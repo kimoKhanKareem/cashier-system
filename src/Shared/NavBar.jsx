@@ -42,7 +42,7 @@ const NavBar = () => {
         </NavbarStyled >
     )
 }
-// styled components
+//! styled components
 const NavbarStyled = styled.header`
 width: 100%;
 height:80px;

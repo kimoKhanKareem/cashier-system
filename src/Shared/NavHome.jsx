@@ -15,7 +15,7 @@ const NavHome = () => {
         </BarhomeStyled>
     )
 }
-//styled components
+//! styled components
 const BarhomeStyled = styled.div`
 padding-bottom: 1%;
 padding-top: 1%;

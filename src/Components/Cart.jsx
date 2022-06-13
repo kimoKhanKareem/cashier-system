@@ -1,4 +1,4 @@
-import { useContext, useState } from "react";
+import { useContext } from "react";
 import { CartContext } from "../contexts/CartContext";
 import styled from "styled-components";
 import { AiOutlineShoppingCart, AiFillDelete } from "react-icons/ai";
@@ -51,12 +51,9 @@ const Cart = () => {
                     </h5>
                     <h5>
                       {!item.result.length &&
-                      !item.pric.length &&
-                      !item.dis.length
-                        ? (item.qty * item.price).toFixed(2)
-                        : item.result.join("") * item.pric.join("") ||
-                          item.qty * item.pric.join("") ||
-                          (item.result.join("") * item.price).toFixed(2)}{" "}
+                        !item.pric.length && !item.dis.length  ? (item.qty * item.price).toFixed(2)
+                          : item.result.join("") * item.pric.join("") || item.qty * item.pric.join("") ||
+                            (item.result.join("") * item.price).toFixed(2)}
                       $
                     </h5>
                   </div>
@@ -137,7 +134,7 @@ const Cart = () => {
     </StyledCart>
   );
 };
-//styled components
+//! styled components
 const StyledCart = styled.div`
   width: 100%;
   height: 100% !important;
@@ -161,7 +158,6 @@ const StyledCart = styled.div`
       .kimoKhan {
         background-color: #80808049 !important;
       }
-
       .oneitems {
         .numberbes {
           .qty {

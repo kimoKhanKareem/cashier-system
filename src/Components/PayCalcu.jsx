@@ -61,7 +61,7 @@ const PayCalcu = () => {
         </Wrapper>
     )
 }
-// styled components
+//! styled components
 const Wrapper = styled.div`
     .clearinfix{
         .btinp{

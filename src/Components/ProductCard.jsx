@@ -21,7 +21,7 @@ const ProductCard = ({ product }) => {
         </Dive>
     )
 }
-//styled-components.backgroundboxcolm
+//! styled-components.backgroundboxcolm
 const Dive = styled.div`
     justify-content: center;
     display: flex;

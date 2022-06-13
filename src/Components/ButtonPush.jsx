@@ -13,16 +13,14 @@ const ButtonPush = () => {
       <button className={"btn btnhidden cash"}>
         <span>Cash</span>
         <span className={"d-flex align-items-center"}>
-          {" "}
-          {cart.CartTotal}${" "}
+          {cart.CartTotal}$
           <IoMdCloseCircle style={{ fill: "white", marginLeft: "10px" }} />
         </span>
       </button>
       <button className={"btn btnhidden bank"}>
         <span style={{ marginRight: "10px" }}>Bank</span>
         <span className={"d-flex align-items-center"}>
-          {" "}
-          {cart.CartTotal}${" "}
+          {cart.CartTotal}$
           <IoMdCloseCircle style={{ fill: "white", marginLeft: "10px" }} />
         </span>
       </button>
@@ -38,7 +36,7 @@ const ButtonPush = () => {
     </ButtonPushStyled>
   );
 };
-//styled Comonents
+//!styled Comonents
 const ButtonPushStyled = styled.div`
   .btn {
     display: flex;

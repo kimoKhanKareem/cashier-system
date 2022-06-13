@@ -39,7 +39,7 @@ const Home = () => {
     </HomeStyled>
   )
 }
-// styled Components
+//! styled Components
 const HomeStyled = styled.section`
 .barcart{
   background-color: var(--th-color);
