@@ -24,7 +24,7 @@ const Paymen = () => {
           <h2>Payment</h2>
           <Link to="/" className="btn validate">
             <p>
-              Validate
+              Validate Kimo Umar
             </p>
               <BsBoxArrowRight className={"iconsarrowR"}/>
           </Link>
