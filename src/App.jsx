@@ -6,8 +6,6 @@ import { CartProvider } from './contexts/CartContext';
 import { InputProvider } from './contexts/CalculatorContext';
 import Paymen from './Components/Paymen';
 
-
-
 function App() {
   return (
     <CartProvider>

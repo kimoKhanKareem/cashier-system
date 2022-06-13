@@ -40,11 +40,8 @@ export const CartProvider = ({ children }) => {
         let Newtotal = items.reduce((prev, curr) => prev + curr.result.join('') * curr.pric.join(''), 0);
         const CartTotal = CartTotall.toFixed(2);
         const NewTotal = Newtotal.toFixed(2)
-        // setKkhan(NewTotal)
         return {CartTotal, NewTotal};
     };   
-
-    // console.log("kkhan", kkhan)
     //!  toggle select item from backgroundColor in cart
     const [isActive, setIsActive] = useState(true);
     //!  arry set all object item
@@ -54,7 +51,6 @@ export const CartProvider = ({ children }) => {
         setNumbers('');
         setKactivet('');
         setDiscuNumber('');
-        // console.log("item",item)
         setKeyitem(item)
         setNumprices('');
         setQty(true)
@@ -71,13 +67,13 @@ export const CartProvider = ({ children }) => {
         setSprice(false)
         setPdiscu(false)
     }
-    //!color click disc
+    //! color click disc
     const PdiscuAdd = () => {
         setPdiscu(true)
         setQty(false)
         setSprice(false)
     }
-    //!color click price
+    //! color click price
     const SpriceAdd = () => {
         setSprice(true)
         setPdiscu(false)
