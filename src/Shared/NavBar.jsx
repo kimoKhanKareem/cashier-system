@@ -12,7 +12,7 @@ const NavBar = () => {
             <Navbar  expand="lg">
                 <Container fluid>
                     <div className='box-nav'>
-                        <Link to="/"><img className={'logovodo'} src="image/VODO LOGO.png" alt="..." /></Link>
+                        <Link to="/"><img className={'logovodo'} src="image/logo_01.png" alt="..." /></Link>
                         <div className="childbox-nav">
                             <Link to='#'>
                                 <FaMoneyBillWave className='navIcons' />

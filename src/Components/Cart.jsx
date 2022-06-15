@@ -125,7 +125,7 @@ const Cart = () => {
             </div>
             <div className="taxes text-center">
               <h5>Total</h5>
-              <h5 className="title">{cart.CartTotal} $</h5>
+              <h5 className="title">{cart.CartTotal ? cart.NewTotal: cart.CartTotal} $</h5>
             </div>
           </div>
         </div>
