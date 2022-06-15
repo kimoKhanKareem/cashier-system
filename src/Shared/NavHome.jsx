@@ -9,7 +9,7 @@ const NavHome = () => {
             <div className="parentBar">
                 <Link to='/'>
                     <AiFillHome className="aiOutlineHome" />
-                    <h5>Chairs</h5>
+                    <h5>Lens</h5>
                 </Link>
             </div>
         </BarhomeStyled>
