@@ -1,0 +1,100 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "image/canon-rf-24-105mm-f-4-l-is-usm-lens-250x250.jpg",
+            "title": "Lens-250x250 (Canon)", 
+            "price": 39.40
+        },
+        {
+            "id": 2,
+            "image": "image/c1913efdfbe98da2881d1def863265eb60592bc0.webp",
+            "title": "Canon-eos-r-0.71x-adapter (Canon)",
+            "price": 40.40
+        },
+        {
+            "id": 3,
+            "image": "image/Canon-eos-r-0.71x-adapter.jpg",
+            "title": "Canon-eos-r-0.71x-adapter (Canon)",
+            "price": 35.40
+        },
+        {
+            "id": 4,
+            "image": "image/canon-rf-24-105mm-f-4-l-is-usm-lens-250x250.jpg",
+            "title": "Lens-250x250 (Canon)", 
+            "price": 80.40
+        },
+        {
+            "id": 5,
+            "image": "image/c1913efdfbe98da2881d1def863265eb60592bc0.webp",
+            "title": "Canon-eos-r-0.71x-adapter (Canon)",
+            "price": 48.40
+        },
+        {
+            "id": 6,
+            "image": "image/Canon-eos-r-0.71x-adapter.jpg",
+            "title": "Canon-eos-r-0.71x-adapter (Canon)",
+            "price": 19.40
+        },
+        {
+            "id": 7,
+            "image": "image/canon-rf-24-105mm-f-4-l-is-usm-lens-250x250.jpg",
+            "title": "Lens-250x250 (Canon)", 
+             "price": 31.40
+        },
+        {
+            "id": 8,
+            "image": "image/c1913efdfbe98da2881d1def863265eb60592bc0.webp",
+            "title": "Canon-eos-r-0.71x-adapter (Canon)",
+            "price": 79.40
+        },
+        {
+            "id": 9,
+            "image": "image/Canon-eos-r-0.71x-adapter.jpg",
+            "title": "Canon-eos-r-0.71x-adapter (Canon)",
+            "price": 49.40
+        },
+        {
+            "id": 10,
+            "image": "image/canon-rf-24-105mm-f-4-l-is-usm-lens-250x250.jpg",
+            "title": "Lens-250x250 (Canon)", 
+            "price": 37.40
+        },
+        {
+            "id": 11,
+            "image": "image/c1913efdfbe98da2881d1def863265eb60592bc0.webp",
+            "title": "Canon-eos-r-0.71x-adapter (Canon)",
+            "price": 29.40
+        },
+        {
+            "id": 12,
+            "image": "image/Canon-eos-r-0.71x-adapter.jpg",
+            "title": "Canon-eos-r-0.71x-adapter (Canon)",
+            "price": 39.40
+        },
+        {
+            "id": 13,
+            "image": "image/canon-rf-24-105mm-f-4-l-is-usm-lens-250x250.jpg",
+            "title": "Lens-250x250 (Canon)", 
+             "price": 39.40
+        },
+        {
+            "id": 14,
+            "image": "image/c1913efdfbe98da2881d1def863265eb60592bc0.webp",
+            "title": "Canon-eos-r-0.71x-adapter (Canon)",
+            "price": 39.40
+        },
+        {
+            "id": 15,
+            "image": "image/Canon-eos-r-0.71x-adapter.jpg",
+            "title": "Canon-eos-r-0.71x-adapter (Canon)",
+            "price": 39.40
+        },
+        {
+            "id": 16,
+            "image": "image/canon-rf-24-105mm-f-4-l-is-usm-lens-250x250.jpg",
+            "title": "Lens-250x250 (Canon)", 
+            "price": 39.40
+        }
+    ]
+}
